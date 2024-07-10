@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-knightnotes-staging-48758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211125606024:role/amplify-knightnotes-staging-48758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211125606024:role/amplify-knightnotes-staging-48758-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-knightnotes-staging-48758-deployment",
+      "UnauthRoleName": "amplify-knightnotes-staging-48758-unauthRole",
+      "StackName": "amplify-knightnotes-staging-48758",
+      "StackId": "arn:aws:cloudformation:us-east-2:211125606024:stack/amplify-knightnotes-staging-48758/580013b0-3e5f-11ef-b883-029f569d0efb",
+      "AmplifyAppId": "d1a6lz9p34p2ln"
+    }
+  }
+}

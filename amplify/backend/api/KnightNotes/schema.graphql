@@ -1,0 +1,13 @@
+type CreateNotesForm @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  title: String
+  text: String
+  Notes: Notes @hasOne
+}
+
+type Notes @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  title: String
+  text: String
+}
+ 
